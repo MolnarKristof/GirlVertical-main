@@ -43,4 +43,6 @@ function Home() {
     );
 }
 
+// Changed by the goat, king isten kiraly
+
 export default Home;
